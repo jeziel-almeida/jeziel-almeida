@@ -3,6 +3,17 @@
 
 - 🌱 Estou, atualmente, aprendendo C/C++, Python, HTML e CSS.
 
+
+
+
+
+
+
+
+
+
+
+
 <!-- Comentário -->
 <!--
 **jeziel-almeida/jeziel-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
