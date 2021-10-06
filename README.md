@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/jeziel-almeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeziel-almeida&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-almeida&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeziel-almeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-almeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,10 +19,13 @@
 
 ![Snake animation](https://github.com/jeziel-almeida/jeziel-almeida/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Tabela 
 
+Caracter | Permissão
+---------|---------
+`r`      | Permissão de leitura (*read*)
 
-
-
+-->
 
 <!-- Comentário -->
 <!--
