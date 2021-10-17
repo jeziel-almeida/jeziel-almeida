@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🌱 Estou, atualmente, aprendendo C/C++. HTML e CSS.
+- 🌱 Estou, atualmente, aprendendo C/C++, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/jeziel-almeida">
