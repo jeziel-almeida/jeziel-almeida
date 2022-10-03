@@ -1,13 +1,21 @@
-### Olá 👋
+### Hello World! 👋
 
 
-- 🌱 Estou, atualmente, aprendendo C/C++, HTML e CSS.
+```js
+import SoftwareDeveloper from 'jeziel-almeida';
+class Bio extends SoftwareDeveloper {
+  name       = '✍️ Jeziel Almeida';
+  age        = '👱‍ 22 years'; 
+  location   = '🏠 Brasília, DF - Brazil';                                                                          
+  occupation = '👨‍🏫 Developer';
+  studying   = '💻 ADS, currently in the 4rd period';
+  focus      = '🎯 C#, JavaScript, React, Python';
+                                                                             
+}
+``` 
 
-<div align="center">
-  <a href="https://github.com/jeziel-almeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeziel-almeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-almeida&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-almeida&layout=compact&theme=dark&langs_count=8"/>
+
 
   <!--
 <div style="display: inline_block"><br>
