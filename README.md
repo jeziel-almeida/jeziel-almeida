@@ -13,9 +13,9 @@ class Bio extends SoftwareDeveloper {
                                                                              
 }
 ``` 
-
+ <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-almeida&layout=compact&theme=dark&langs_count=8"/>
-
+-->
 
   <!--
 <div style="display: inline_block"><br>
