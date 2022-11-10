@@ -4,12 +4,12 @@
 ```js
 import SoftwareDeveloper from 'jeziel-almeida';
 class Bio extends SoftwareDeveloper {
-  name       = '✍️ Jeziel Almeida';
-  age        = '👱‍ 22 years'; 
-  location   = '🏠 Brasília, DF - Brazil';                                                                          
-  occupation = '👨‍🏫 Developer';
-  studying   = '💻 ADS, currently in the 4rd period';
-  focus      = '🎯 C#, JavaScript, React, Python';
+  nome       = '✍️ Jeziel Almeida';
+  idade      = '👱‍ 22'; 
+  local      = '🏠 Brasília, DF - Brasil';                                                                          
+  ocupação   = '👨‍🏫 Developer';
+  formação   = '💻 ADS, 4º período';
+  estudando  = '🎯 C#, JavaScript, React, Python';
                                                                              
 }
 ``` 
