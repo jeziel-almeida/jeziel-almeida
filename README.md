@@ -5,11 +5,11 @@
 import SoftwareDeveloper from 'jeziel-almeida';
 class Bio extends SoftwareDeveloper {
   nome       = '✍️ Jeziel Almeida';
-  idade      = '👱‍ 22'; 
+  idade      = '👱‍ 23'; 
   local      = '🏠 Brasília, DF - Brasil';                                                                          
   ocupação   = '👨‍🏫 Developer';
-  formação   = '💻 ADS, 4º período';
-  estudando  = '🎯 C#, JavaScript, React, Python';
+  formação   = '💻 ADS';
+  tecnologias  = '🎯 Javascript, Java, React, Typescript, Next.js';
                                                                              
 }
 ``` 
